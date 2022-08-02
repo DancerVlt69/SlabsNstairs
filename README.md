@@ -6,7 +6,7 @@ Slabs 'n Stairs
 [![Twitch](https://img.shields.io/twitch/status/dancervlt69?style=social)](https://twitch.tv//dancervlt69/)
 [![Twitter](https://img.shields.io/twitter/follow/DancerVlt69)](https://twitter.com/intent/follow?screen_name=dancervlt69)
 [![Discord](https://img.shields.io/discord/336920528180740096)](https://www.discord.gg/hfdUWB6Gyg)
-[![Instagram](https://img.shields.io/badge/DancerVLT69-Instagram-9cf)](https://www.instagram.com/dancervlt69/)
+[![Instagram](https://img.shields.io/badge/Instagram-9cf)](https://www.instagram.com/dancervlt69/)
 
 
 ...is in a early BETA.
