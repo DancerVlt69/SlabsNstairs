@@ -1,7 +1,8 @@
+[![Twitch](https://img.shields.io/twitch/status/dancervlt69?style=social)](https://twitch.tv//dancervlt69/)
 [![Twitter](https://img.shields.io/twitter/follow/DancerVlt69)](https://twitter.com/intent/follow?screen_name=dancervlt69)
 [![Discord]](https://www.instagram.com/dancervlt69/)
 
-[![Twitch](https://img.shields.io/twitch/status/dancervlt69?style=social)](https://twitch.tv//dancervlt69/)
+
 
 
 Slabs 'n Stairs
