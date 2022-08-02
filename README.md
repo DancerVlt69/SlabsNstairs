@@ -1,3 +1,6 @@
+Slabs 'n Stairs
+===============
+
 [![Minecraft version badge](https://img.shields.io/badge/mc%20version-1.18x-3b8526)](https://www.curseforge.com/minecraft/mc-mods/slabs-n-stairs/files/all?filter-status=1&filter-game-version=1738749986%3A73250)
 [![Minecraft version badge](https://img.shields.io/badge/1.19x-3b8526)](https://www.curseforge.com/minecraft/mc-mods/slabs-n-stairs/files/all?filter-status=1&filter-game-version=1738749986%3A73407)
 
@@ -5,9 +8,6 @@
 [![Twitter](https://img.shields.io/twitter/follow/DancerVlt69)](https://twitter.com/intent/follow?screen_name=dancervlt69)
 [![Discord](https://img.shields.io/discord/336920528180740096)](https://www.discord.gg/hfdUWB6Gyg)
 [![Instagram](https://img.shields.io/badge/DancerVLT69-Instagram-9cf)](https://www.instagram.com/dancervlt69/)
-
-Slabs 'n Stairs
-===============
 
 
 ...is in a early BETA.
