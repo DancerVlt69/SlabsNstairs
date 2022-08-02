@@ -1,5 +1,5 @@
 [![Minecraft version badge](https://img.shields.io/badge/mc%20version-1.18x-3b8526)](#)
-[![Minecraft version badge](https://img.shields.io/badge/mc%20version-1.19x-3b8526)](#)
+[![Minecraft version badge](https://img.shields.io/badge/1.19x-3b8526)](#)
 
 
 [![Twitch](https://img.shields.io/twitch/status/dancervlt69?style=social)](https://twitch.tv//dancervlt69/)
