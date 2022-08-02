@@ -8,6 +8,8 @@ Slabs 'n Stairs
 [![Discord](https://img.shields.io/badge/-Discord-blue?style=social)](https://www.discord.gg/hfdUWB6Gyg)
 [![Instagram](https://img.shields.io/badge/Instagram-9cf?style=social)](https://www.instagram.com/dancervlt69/)
 
+[![Twitter](https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=Twitter&logoColor=blue&style=social&url=https%3A%2F%2Fwww.twitter.com%2Fdancervlt69)](https://twitter.com/intent/follow?screen_name=dancervlt69)
+
 
 ...is in a early BETA.
 
