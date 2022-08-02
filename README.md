@@ -4,7 +4,7 @@ Slabs 'n Stairs
 [![Minecraft version badge](https://img.shields.io/badge/mc%20version-1.18x-3b8526)](https://www.curseforge.com/minecraft/mc-mods/slabs-n-stairs/files/all?filter-status=1&filter-game-version=1738749986%3A73250)
 [![Minecraft version badge](https://img.shields.io/badge/1.19x-3b8526)](https://www.curseforge.com/minecraft/mc-mods/slabs-n-stairs/files/all?filter-status=1&filter-game-version=1738749986%3A73407)
 [![Twitch](https://img.shields.io/twitch/status/dancervlt69?style=social)](https://twitch.tv//dancervlt69/)
-[![Twitter](https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=Twitter&logoColor=blue&style=social)](https://twitter.com/intent/follow?screen_name=dancervlt69)
+[![Twitter](https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=Twitter&logoColor=blue&style=social&url=https%3A%2F%2Fwww.twitter.com%2Fdancervlt69)](https://twitter.com/intent/follow?screen_name=dancervlt69)
 [![Discord](https://img.shields.io/badge/-Discord-blue?style=social)](https://www.discord.gg/hfdUWB6Gyg)
 [![Instagram](https://img.shields.io/badge/Instagram-9cf?style=social)](https://www.instagram.com/dancervlt69/)
 
